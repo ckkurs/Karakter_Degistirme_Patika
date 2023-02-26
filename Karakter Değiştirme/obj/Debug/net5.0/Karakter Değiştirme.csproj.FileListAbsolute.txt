@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.exe
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.deps.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.runtimeconfig.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\bin\Debug\net5.0\Karakter Değiştirme.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.AssemblyInfo.cs
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\refint\Karakter Değiştirme.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\Karakter Değiştirme.genruntimeconfig.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Karakter Değiştirme\obj\Debug\net5.0\ref\Karakter Değiştirme.dll
